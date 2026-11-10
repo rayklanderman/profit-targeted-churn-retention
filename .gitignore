@@ -1,0 +1,20 @@
+# course data (not redistributable)
+telecom/
+*.csv
+
+# scratch, logs and caches
+*.log
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+outputs_run1/
+render_check/
+
+# generated decks (the PDF in slides/ is kept)
+*.pptx
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
