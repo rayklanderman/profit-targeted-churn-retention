@@ -87,3 +87,8 @@ python build_deck.py                            # optional: rebuild the slides
 ## References
 
 Market data come from CTIA, T-Mobile, Verizon, AT&T and Light Reading. Method references are Verbraken et al. (2013), LightGBM, XGBoost and scikit-learn. The full numbered list with links is on the last slide of `slides/Profit-Targeted_Churn_Retention.pdf`.
+
+## Author
+
+Raymond Klanderman ([rayklanderman](https://github.com/rayklanderman), also [RealDevRay](https://github.com/RealDevRay)).
+
